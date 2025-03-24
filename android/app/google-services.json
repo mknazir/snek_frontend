@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "257627921237",
+    "project_id": "da-notification-e8427",
+    "storage_bucket": "da-notification-e8427.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:257627921237:android:81f171404ba9576dacaddc",
+        "android_client_info": {
+          "package_name": "com.datingapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAL3jEuH8yxJPIwYy38-Qv2sZHAy5mxeyY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
